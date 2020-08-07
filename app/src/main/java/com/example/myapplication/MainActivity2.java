@@ -20,5 +20,6 @@ public class MainActivity2 extends AppCompatActivity {
 
         int sss= Integer.parseInt(getIntent().getStringExtra("value"));//err
         Log.e("ssss", String.valueOf(sss));
+        //ssss
     }
 }
